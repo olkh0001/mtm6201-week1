@@ -1,0 +1,55 @@
+.wrappper {
+    margin: auto;
+}
+h1 {
+    font-family: 'Barlow', sans-serif;
+    font-size: 35px;
+}
+
+img {
+    width: 400px;
+    height: 500px;
+    border: 3px solid lightgrey;
+
+}
+
+dl {
+    font-size: 22px;
+    font-family: 'Barlow', sans-serif;
+}
+
+dt {
+    padding-top: 20px;
+
+}
+
+body {
+    background-image: url(../image/College\ vous\ a\ envoyé\ une\ Épingle\ !.jpg);
+}
+
+body, img {
+    background-size: cover;
+}
+
+a:link {
+    color: lightpink;
+}
+
+a:visited {
+    color: lavenderblush;
+}
+
+a:hover {
+    color: whitesmoke;
+}
+
+a:active {
+    color: lightpink;
+}
+
+p {
+    font-size: 15px;
+    padding-top: 0px;
+    font-family: 'Barlow', sans-serif;
+    padding-top: 20px;
+}
