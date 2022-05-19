@@ -23,33 +23,3 @@ dt {
 
 }
 
-body {
-    background-image: url(../image/Pin\ en\ Wallpapers\ <3\ in\ 2022\ |\ Cute\ tumblr\ wallpaper\,\ Phone\ wallpaper\ boho\,\ Iphone\ background\ wallpaper.jpg);
-}
-
-body, img {
-    background-size: cover;
-}
-
-a:link {
-    color: lightpink;
-}
-
-a:visited {
-    color: rgb(121, 78, 78);
-}
-
-a:hover {
-    color: whitesmoke;
-}
-
-a:active {
-    color: lightpink;
-}
-
-p {
-    font-size: 15px;
-    padding-top: 0px;
-    font-family: 'Barlow', sans-serif;
-    padding-top: 20px;
-}
